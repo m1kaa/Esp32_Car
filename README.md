@@ -5,9 +5,9 @@
 ## Prerequisites
 For this project you will need:
 
-- Arduino installed. 
+- Arduino installed
     + [Arduino Download](https://www.arduino.cc/en/Main/Software)
-- Setup Arduino for Esp32 Dev Board;
+- Setup Arduino for Esp32 Dev Board
     + [espressif/arduino-esp33](https://github.com/espressif/arduino-esp32)
 
 ## Parts Required
