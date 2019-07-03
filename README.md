@@ -1,8 +1,6 @@
 # Esp32_Car
-Just an esp32 controlled car with frontal distance detection. 
-This instuction will help you build your own WiFi controlled car with distance detection.
-
-## Getting Started
+### Just an esp32 controlled car with frontal distance detection. 
+#### This instuction will help you build your own WiFi controlled car with distance detection.
 
 ### Prerequisites
 For this project you will need:
@@ -25,5 +23,9 @@ For this project you will need:
 - 9V battery with connector
 - Plastic or Wooden Board
 - 3rd Wheel
+- Swicth
+- Powerbank
+
+
 
 
