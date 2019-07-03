@@ -8,7 +8,7 @@ This instuction will help you build your own WiFi controlled car with distance d
 For this project you will need:
 
 * Arduino installed. 
- [Arduino Download](https://www.arduino.cc/en/Main/Software);
+.* [Arduino Download](https://www.arduino.cc/en/Main/Software);
     
 * Setup Arduino for Esp32 Dev Board;
 
