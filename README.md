@@ -31,6 +31,6 @@ For this project you will need:
 ## Blynk Setup
 
 To setup Blynk you just need to add the corect widgets with the corect pins:
-1. 1 Labeled Value (for the distance value) -> Virtual pin 0 (V0)
-2. 1 Vertical Slider (to control the car speed) -> Virtual pin 1 (V1)
-3. 1 Joystick (to control the car) -> Virtual pin 2 (V2)
+- 1 Labeled Value (for the distance value) -> Virtual pin 0 (V0)
+- 1 Vertical Slider (to control the car speed) -> Virtual pin 1 (V1)
+- 1 Joystick (to control the car) -> Virtual pin 2 (V2)
