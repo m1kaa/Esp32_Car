@@ -1,3 +1,10 @@
+/**
+* @file Esp32_Blynk_Car
+* @brief Car control with Blynk
+* @date 2019-07-04
+* @author Mykhaylo Hryhoyev
+*/
+
 #define BLYNK_PRINT Serial
 
 #include <WiFi.h>
@@ -26,7 +33,7 @@ char auth[] = "";
 char ssid[] = "";
 char pass[] = "";
 
-// PWM variable to controll the motor speed
+// PWM variable to control the motor speed
 int motorSpeed;
 
 // PWM variables
