@@ -19,12 +19,12 @@
 #define echoPin 33
 
 // Your blynk Auth Token
-char auth[] = "c192d2d8f78b48178ac90dfdb23ded99";
+char auth[] = "";
 
 // Your WIFI Credentials
 // Set password to "" for open networks
-char ssid[] = "ZON-7D20";
-char pass[] = "bce392613e1f";
+char ssid[] = "";
+char pass[] = "";
 
 // PWM variable to controll the motor speed
 int motorSpeed;
