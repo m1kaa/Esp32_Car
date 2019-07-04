@@ -9,6 +9,8 @@ For this project you will need:
     + [Arduino Download](https://www.arduino.cc/en/Main/Software)
 - Setup Arduino for Esp32 Dev Board
     + [espressif/arduino-esp33](https://github.com/espressif/arduino-esp32)
+- Setup the Blynk app
+    + [Blynk download](https://play.google.com/store/apps/details?id=cc.blynk&hl=en_US)
 
 ## Parts Required
 
@@ -25,3 +27,10 @@ For this project you will need:
 - 3rd Wheel
 - Swicth
 - Powerbank
+
+## Blynk Setup
+
+To setup Blynk you just need to add the corect widgets with the corect pins:
+    - 1 Labeled Value (for the distance value) -> Virtual pin 0 (V0);
+    - 1 Vertical Slider (to control the car speed) -> Virtual pin 1 (V1);
+    - 1 Joystick (to control the car) -> Virtual pin 2 (V2).
