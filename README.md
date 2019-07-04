@@ -37,5 +37,6 @@ To setup Blynk you just need to add the corect widgets with the corect pins:
 
 ## Build Your Car
 
-![Alt text](images/car1.jpg | width=300)
-<img src="images/car1.jpg" width="300" height="200" />
+<img src="images/car1.jpg" width="300" height="200" /><img src="images/car2.jpg" width="300" height="200" />
+<img src="images/car3.jpg" width="300" height="200" /><img src="images/car4.jpg" width="300" height="200" />
+<img src="images/car5.jpg" width="300" height="200" />
