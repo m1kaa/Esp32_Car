@@ -38,13 +38,13 @@ To setup Blynk you just need to add the corect widgets with the corect pins:
 ## Build Your Car
 
 - <img src="images/car1.jpg" width="300" height="200" />
-    + Glue the wheels to the board
+    Glue the wheels to the board
 - <img src="images/car2.jpg" width="300" height="200" />
-    + Glue the Powerbank, the battery and the Switch
+    Glue the Powerbank, the battery and the Switch
 - <img src="images/car3.jpg" width="300" height="200" />
-    + Fixate the L298N to the board with screws
+    Fixate the L298N to the board with screws
 - <img src="images/car4.jpg" width="300" height="200" />
-    + connect the power(9V) to the L298N 
+    Connect the power(9V) to the L298N 
 - <img src="images/car5.jpg" width="300" height="200" />
-    + connect the Powerbank to the ESP32 and the pinout to the L298N
+    Connect the Powerbank to the ESP32 and the pinout to the L298N
 - Note: you need to remove the 2 EA and EB jumpers so you can control the speed of the motors
