@@ -52,3 +52,7 @@ To setup Blynk you just need to add the corect widgets with the corect pins:
 ## Build the Arduino Code
 
 #### To finish your car just build the [Arduino Code](Esp32_Blynk_Car/Esp32_Blynk_Car.ino) to the ESP32 Dev Board
+#### When the build has finished start the Blynk app
+
+# Enjoy!
+
